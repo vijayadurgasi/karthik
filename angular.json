@@ -6,7 +6,7 @@ k1234567890-{
     "ang2-conduit": {
       "root": "",
       "sourceRoot": "src",
-      "projectType": "application",
+      "projectType": "app",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
