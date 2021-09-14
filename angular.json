@@ -4,7 +4,7 @@ k1234567890-{
   "newProjectRoot": "KrishnavijayaDurgasi",
   "projects": {
     "ang2-conduit": {
-      "root": "",
+      "root":
       "sourceRoot": "src",
       "projectType": "app",
       "architect": {
@@ -28,7 +28,7 @@ k1234567890-{
           "configurations": {
             "production": {
               "optimization": false,
-              "outputHashing": "all",
+              "outputHashing": "limited",
               "sourceMap": false,
               "extractCss": true,
               "namedChunks": false,
