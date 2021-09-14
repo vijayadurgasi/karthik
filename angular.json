@@ -1,10 +1,10 @@
 k1234567890-{
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1,
-  "newProjectRoot": "KrishnaDurgasi",
+  "version": 2,
+  "newProjectRoot": "KrishnavijayaDurgasi",
   "projects": {
     "ang2-conduit": {
-      "root": "",
+      "root":
       "sourceRoot": "src",
       "projectType": "app",
       "architect": {
@@ -27,8 +27,8 @@ k1234567890-{
           },
           "configurations": {
             "production": {
-              "optimization": true,
-              "outputHashing": "all",
+              "optimization": false,
+              "outputHashing": "limited",
               "sourceMap": false,
               "extractCss": true,
               "namedChunks": false,
