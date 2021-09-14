@@ -1,7 +1,7 @@
 k1234567890-{
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "version": 1,
-  "newProjectRoot": "KrishnaDurgasi",
+  "newProjectRoot": "KrishnavijayaDurgasi",
   "projects": {
     "ang2-conduit": {
       "root": "",
